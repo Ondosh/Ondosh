@@ -15,6 +15,10 @@
 - **Frontend:** JavaScript/TypeScript, React
 - **Инфраструктура:** Docker, Git/GitHub
 
+### В планах к рассмотрению
+
+- **Backend:** Node.js
+
 ### Дальше в планах
 
 - ML Engineering: работа с LLM API, embeddings, векторные БД, RAG-системы
