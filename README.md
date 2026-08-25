@@ -19,10 +19,6 @@
 
 - **Backend:** Node.js
 
-### Дальше в планах
-
-- ML Engineering: работа с LLM API, embeddings, векторные БД, RAG-системы
-
 ---
 
 ### Стек
