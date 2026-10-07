@@ -2,22 +2,21 @@
 
 # Ondosh
 
-Учусь создавать полноценные проекты: от бэкенда до интерфейса.
-Сейчас строю базу в fullstack-разработке, дальше буду смотреть в сторону ML/AI Engineering.
-
+Учусь создавать полноценные проекты от бэкенда до интерфейса. 
+Обучаюсь на 3 курсе ЗабГУ, работаю в Лаборатории "Цифровых методов прогноза и мониторинга полезных ископаемых".
 </div>
 
 ---
 
 ### Сейчас изучаю
 
-- **Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL
-- **Frontend:** JavaScript/TypeScript, React
-- **Инфраструктура:** Docker, Git/GitHub
+- **Python**: PyQt, shapely, geopandas.
 
 ### В планах к рассмотрению
 
-- **Backend:** Node.js
+- **Backend:** Node.js, PostgreSQL, SQLAlchemy
+- **Frontend:** JavaSript
+- **Инфрастурктура**: Docker
 
 ---
 
